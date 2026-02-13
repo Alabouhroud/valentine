@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: #c94e4e;
+    text-align: center;
+}
+body{
+    background-color: #e6c1c1;
+}
+.cats{
+    max-width: 400px;
+    height:auto ;
+    display:block ;
+    margin-left:auto ;
+    margin-right:auto ;
+
+}
+.answerbuttons{
+    text-align: center;
+    word-spacing: 20px;
+}
+.links{
+    text-decoration: none;
+    color: #c94e4e;
+    padding: 15px 26px;
+    border: 2px solid #c94e4e;
+    border-radius: 5px;
+    background-color: #c9bebe;
+}
+a:hover{
+    background-color: crimson;
+    border: 2px solid crimson;
+}
+.answerbutton{
+    text-align: center;
+}
